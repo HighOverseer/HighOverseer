@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Fajar Alif Riyandi**.\
+Perkenalkan nama saya **Fajar Alif Riyandi**.
 
 Saya seorang **Android Developer**
 
