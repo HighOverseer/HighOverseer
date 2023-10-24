@@ -1,14 +1,14 @@
-# Halo semua! 
+# Hello All! 
 
-Perkenalkan nama saya **Fajar Alif Riyandi**.
+Greetings, My name is **Fajar Alif Riyandi**.
 
-Saya seorang **Android Developer**
+I am an **Android Developer**
 
-Saya sedang mendalami bidang ilmu saya yaitu di bidang Mobile Development.
+I am currently diving into my passion, which is Mobile Development.
 
-Ayo cek, saya mungkin memiliki beberapa repositori yang mungkin menarik bagimu.
+Let's check, maybe I have some repositories that might interest you.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fajar-alif-riyandi-82771a246/)ku ya.  
+If you want to get to know me, you can pay a visit to my LinkedIn account [Linkedin](https://www.linkedin.com/in/fajar-alif-riyandi-82771a246/).  
 <p align="left">
 <a href="https://github.com/HighOverseer">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HighOverseer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
