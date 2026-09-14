@@ -6,7 +6,7 @@ I am an **Android Developer**
 
 I am currently diving into my passion, which is Mobile Development.
 
-Let's check, maybe I have some repositories that might interest you.
+Let's explore, maybe I have some repositories that might interest you.
 
 If you want to get to know me, you can pay a visit to my LinkedIn account [Linkedin](https://www.linkedin.com/in/fajar-alif-riyandi-82771a246/).  
 <p align="left">
